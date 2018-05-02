@@ -10,6 +10,7 @@ class Dog
     @@all.each do |names|
       puts Dog.names
     end
+  end
 
 
 end
